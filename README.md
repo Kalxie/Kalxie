@@ -48,6 +48,20 @@ local kalxie = {
   <img src="https://skillicons.dev/icons?i=lua,ts,js,react,nodejs,electron,cs,mysql,html,css,git,vscode&perline=12" alt="Lua, TypeScript, JavaScript, React, Node.js, Electron, C#, MySQL, HTML, CSS, Git, VS Code" />
 </p>
 
+### 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kalxie&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Kalxie&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=1e3a8a" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalxie/Kalxie/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Kalxie/Kalxie/output/snake-light.svg" alt="Contribution snake" width="100%" />
+  </picture>
+</p>
+
 ### 📫 Get in touch
 
 Message me on Discord at **kalxiee.**, or catch me live on [Twitch](https://twitch.tv/kalxie).
